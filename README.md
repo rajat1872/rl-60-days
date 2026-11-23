@@ -16,3 +16,4 @@ Code uses long descriptive names and asserts on hand-checked values, so every sc
 |---|---|---|
 | 01 | MDPs, returns, discounting; random policy on CartPole | `python day01_mdp_random_cartpole/random_cartpole.py` |
 | 02 | Multi-armed bandits, epsilon-greedy, regret | `python day02_bandits_epsilon_greedy/epsilon_greedy_bandit.py` |
+| 03 | Policy gradients, the log-derivative trick, REINFORCE | `python day03_policy_gradients_reinforce/reinforce_cartpole.py` |
