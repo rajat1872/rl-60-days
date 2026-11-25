@@ -18,3 +18,4 @@ Code uses long descriptive names and asserts on hand-checked values, so every sc
 | 02 | Multi-armed bandits, epsilon-greedy, regret | `python day02_bandits_epsilon_greedy/epsilon_greedy_bandit.py` |
 | 03 | Policy gradients, the log-derivative trick, REINFORCE | `python day03_policy_gradients_reinforce/reinforce_cartpole.py` |
 | 04 | Baselines, advantage, actor-critic (3 seeds, plain vs baseline) | `python day04_baselines_advantage/reinforce_with_baseline.py baseline 0` |
+| 05 | PPO clipped objective + GAE, one update traced | `python day05_ppo_gae/ppo_one_update_trace.py` |
