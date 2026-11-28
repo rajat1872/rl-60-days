@@ -21,3 +21,4 @@ Code uses long descriptive names and asserts on hand-checked values, so every sc
 | 05 | PPO clipped objective + GAE, one update traced | `python day05_ppo_gae/ppo_one_update_trace.py` |
 | 06 | Gymnasium API, terminated vs truncated, custom text env ConfigFix-v0 | `python day06_gymnasium_custom_env/test_and_agents.py` |
 | 08 | RLHF pipeline: Bradley–Terry reward model, KL-regularised policy | `python day08_rlhf_reward_model_and_kl/reward_model_and_kl.py` |
+| 09 | DPO: preference loss on the policy, Z cancels, implicit reward | `python day09_dpo/dpo_tabular.py` |
